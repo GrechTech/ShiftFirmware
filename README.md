@@ -1,2 +1,2 @@
 # ShiftFirmware
-Shift Smart Trainer Public Firmware
+Shift Smart Trainer Firmware
